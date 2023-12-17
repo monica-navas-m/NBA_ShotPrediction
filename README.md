@@ -20,10 +20,13 @@ This repository contains the code and data for the thesis research on [Your Thes
 The dataset used for this research is stored in the 'data' folder. It includes CSV files containing NBA datasets for the seasons relevant to our research.
 
 - `data/`
-  - `season1.csv`
-  - `season2.csv`
-  - ...
-  - `seasonN.csv`
+  - `NBA_2015_Shots.csv`
+  - `NBA_2019_Shots.csv`
+  - `NBA_2020_Shots.csv`
+  - `NBA_2021_Shots.csv`
+  - `NBA_2022_Shots.csv`
+  - `NBA_2023_Shots.csv`
+
 
 ## Exploratory Data Analysis (EDA)
 
